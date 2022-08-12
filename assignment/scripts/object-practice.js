@@ -13,7 +13,7 @@ const me = {
   firstName: "Yanira",
   lastName: "Hagstrom",
   hasSiblings: true,
-  shoeCount: 10,
+  shoeCount: 8,
   favThreeFoods: ['tacos', 'pizza', 'pasta']
 };
 
